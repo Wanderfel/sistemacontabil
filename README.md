@@ -1,2 +1,0 @@
-# sistemacontabil
-Sistema contábil
